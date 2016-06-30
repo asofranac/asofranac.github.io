@@ -1,0 +1,40 @@
+body {
+    width: 960px;
+    margin: auto;
+}
+
+.nav {
+    margin: 100px;
+    display: inline-block;
+}
+
+.title {
+    font-size: 100px;
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+.subheading {
+    font-family: sans-serif;
+    color: firebrick;
+    font-size: 25px;
+}
+
+img {
+    width: 960px;
+}
+
+.text-body {
+    width: 960px;
+}
+
+.main-text {
+    float: left;
+    width: 720px;
+}
+
+.caption {
+    float: right;
+    width: 200px;
+}
