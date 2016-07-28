@@ -1,0 +1,131 @@
+/* Font is Amatic cursive from Google Fonts*/
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #e6e6e6;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000033;
+}
+
+.navbar {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: #000066;
+    margin-bottom: 5px;
+}
+
+/* This is strictly for the links on the nav bar */
+
+.navbar a {
+    margin-bottom: 0px;
+    margin-left: 75px;
+    margin-right: 75px;
+    color:white;
+    text-decoration: none;
+}
+
+.dcskyline {
+    width: 100%;
+    text-align: center;
+}
+
+.natspark { 
+    float: left;
+    margin-top: 5px;
+    margin-right: 39px;
+    margin: left 10px;
+}
+
+.rfkstadium {
+    float: left;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin: left 30px;
+}
+
+.quickfacts {
+    float: left;
+    width: 20%;
+    margin: 10px;
+}
+
+.quickfacts h4 {
+    border-bottom: solid;
+    font-size: 40px;
+}
+
+.teamnews {
+    float: right;
+    font-family: 'Times', serif;
+    width: 70%;
+    height:auto;
+}
+
+.teamnews a {
+   display: inline-block;
+}
+
+.teamnews h4 {
+    text-align: center;
+    border-bottom: solid;
+    font-size: 40px;
+}
+
+.schedule {
+    clear: left;
+    margin-right: 400px;
+    margin-left: 400px;
+    display: inline-block;
+}
+
+.schedule th {
+    text-align: center;
+    border-bottom: solid;
+    font-size: 40px;
+    width: 70%;
+}
+
+.date {
+    margin: 40px;
+}
+
+.opponent {
+    margin:10px;
+}
+
+.time {
+    margin:20px;
+}
+
+.location {
+    margin:20px;
+}
+
+.firstname {
+    text-align: center;
+}
+
+.lastname {
+    text-align: center;
+}
+
+.email {
+    text-align: center;
+}
+
+.telephone {
+    text-align: center;
+}
+
+.comment {
+    text-align: center;
+    margin-top: 20px
+}
+
+.submit {
+    text-align: center
+}
